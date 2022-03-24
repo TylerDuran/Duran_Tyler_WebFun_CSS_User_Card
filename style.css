@@ -25,7 +25,7 @@
 }
 .profile-pic {
     height: 100px;
-    position: fixed; 
+    position: absolute; 
     top: 80px;
     border: solid 4px #CDCDCD;
     padding: 3px;
